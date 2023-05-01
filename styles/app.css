@@ -1,0 +1,11 @@
+body {
+  background-color: #f7e8a6;
+  display: block;
+  text-align: center;
+}
+a {
+  color: green;
+}
+#mail {
+  color: blue;
+}
